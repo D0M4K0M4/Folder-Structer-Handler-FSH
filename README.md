@@ -8,7 +8,7 @@ That small tool helps people to destructure a folder even large complex one, and
 
 # Features:
 
-The app have a folder destructure and restructure features, and in addition the program able filter files by extension and file name contents too.
+The app have a folder destructure and restructure features (also the program rename the same name files when destruct, than when restruct the program reuse the original file name), and in addition the program able filter files by extension and file name contents too.
 
 # Informations
 
@@ -19,3 +19,14 @@ The app is installable where the user want, the basic structure of the program i
 also after the setup installation, we got a shortcut on desktop for filter settings:
 
  ![My Image](Instruction_images/25.png)
+
+# Usage:
+
+After the setup intallation we got a shortcut, but we firstly intrested about the the destruct, restruction.
+So we want to destruct a folder, so in order to know how to do this just click on a folder that you want to destruct, and you'll see the context menu right here:
+
+ ![My Image](Instruction_images/2.png)
+
+You can choose the destruct than you'll see this...
+
+ ![My Image](Instruction_images/20.png)
