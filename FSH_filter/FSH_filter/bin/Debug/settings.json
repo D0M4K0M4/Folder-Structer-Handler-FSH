@@ -1,0 +1,10 @@
+{
+  "grab_file_types": [
+    ".png",
+    ".dds"
+  ],
+  "grab_file_containing": [
+    "_n",
+    "_s"
+  ]
+}

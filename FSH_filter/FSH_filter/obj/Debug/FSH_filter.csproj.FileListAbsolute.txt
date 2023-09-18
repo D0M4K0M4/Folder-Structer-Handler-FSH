@@ -1,0 +1,28 @@
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\bin\Debug\FSH_filter.exe.config
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\bin\Debug\FSH_filter.exe
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\bin\Debug\FSH_filter.pdb
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.AssemblyReference.cache
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.SuggestedBindingRedirects.cache
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.fsh_filter.resources
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.Properties.Resources.resources
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.GenerateResource.cache
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.CoreCompileInputs.cache
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.exe
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.pdb
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\doma1\Desktop\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.CopyComplete
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\bin\Debug\FSH_filter.exe.config
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\bin\Debug\FSH_filter.exe
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\bin\Debug\FSH_filter.pdb
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\bin\Debug\Newtonsoft.Json.dll
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\bin\Debug\Newtonsoft.Json.xml
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.AssemblyReference.cache
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.SuggestedBindingRedirects.cache
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.fsh_filter.resources
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.Properties.Resources.resources
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.GenerateResource.cache
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.CoreCompileInputs.cache
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.csproj.CopyComplete
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.exe
+D:\My project\FSH Project\FSH\FSH_filter\FSH_filter\obj\Debug\FSH_filter.pdb
