@@ -29,7 +29,13 @@ So we want to destruct a folder, so in order to know how to do this just click o
 
 You can choose the destruct than you'll see this...
 
- ![My Image](Instruction_images/20.png)
+ ![My Image](Instruction_images/18.png)
 
-Actually I have a '_a' filter on the name file filtering...
+Than you destruct your targeted folder you have in that case a Test_folder_(Destructured) folder that is holds all the file in the same folder like this:
+
+ ![My Image](Instruction_images/9.png)
+
+Than you able to restruct your files to the original structured folder:
+
+ ![My Image](Instruction_images/10.png)
 
