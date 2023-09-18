@@ -25,8 +25,11 @@ also after the setup installation, we got a shortcut on desktop for filter setti
 After the setup intallation we got a shortcut, but we firstly intrested about the the destruct, restruction.
 So we want to destruct a folder, so in order to know how to do this just click on a folder that you want to destruct, and you'll see the context menu right here:
 
- ![My Image](Instruction_images/2.png)
+ ![My Image](Instruction_images/12.png)
 
 You can choose the destruct than you'll see this...
 
  ![My Image](Instruction_images/20.png)
+
+Actually I have a '_a' filter on the name file filtering...
+
