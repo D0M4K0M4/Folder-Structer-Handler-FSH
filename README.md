@@ -49,6 +49,6 @@ To set a new filter, click just to the 'Folder Structer Handler - Filtering' sho
 
  ![My Image](Instruction_images/17.png)
 
-Actually i feel it already...
+Actually i fill it already...
 
 And you can set this filters by click to 'SAVE' button each of this, than if you click the 'SAVE' button again you'll will set the filteration to 'none'. So that how you can set some filtering to files.
