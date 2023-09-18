@@ -1,0 +1,28 @@
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Folder Structer Handler (FSH).exe.config
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Folder Structer Handler (FSH).exe
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Folder Structer Handler (FSH).pdb
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.AssemblyReference.cache
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.SuggestedBindingRedirects.cache
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder_Structer_Handler__FSH_.fsh_main.resources
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder_Structer_Handler__FSH_.Properties.Resources.resources
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.GenerateResource.cache
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.CoreCompileInputs.cache
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).exe
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).pdb
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Newtonsoft.Json.dll
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Newtonsoft.Json.xml
+C:\Users\doma1\Desktop\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.CopyComplete
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Folder Structer Handler (FSH).exe.config
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Folder Structer Handler (FSH).exe
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Folder Structer Handler (FSH).pdb
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.AssemblyReference.cache
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.SuggestedBindingRedirects.cache
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder_Structer_Handler__FSH_.fsh_main.resources
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder_Structer_Handler__FSH_.Properties.Resources.resources
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.GenerateResource.cache
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.CoreCompileInputs.cache
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).exe
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).pdb
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Newtonsoft.Json.dll
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\bin\Release\Newtonsoft.Json.xml
+D:\My project\FSH Project\FSH\Folder Structer Handler (FSH)\Folder Structer Handler (FSH)\obj\Release\Folder Structer Handler (FSH).csproj.CopyComplete
