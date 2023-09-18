@@ -10,3 +10,8 @@ That small tool helps people to destructure a folder even large complex one, and
 
 The app have a folder destructure and restructure features, and in addition the program able filter files by extension and file name contents too.
 
+# Informations
+
+The app is install where the user want, the basic structure of the program is this:
+
+ ![My Image](Instruction_images/24.png)
