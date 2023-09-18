@@ -12,6 +12,10 @@ The app have a folder destructure and restructure features, and in addition the 
 
 # Informations
 
-The app is install where the user want, the basic structure of the program is this:
+The app is installable where the user want, the basic structure of the program is this:
 
  ![My Image](Instruction_images/24.png)
+
+also after the setup installation, we got a shortcut on desktop for filter settings:
+
+ ![My Image](Instruction_images/25.png)
