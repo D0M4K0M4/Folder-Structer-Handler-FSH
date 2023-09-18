@@ -10,6 +10,8 @@ That small tool helps people to destructure a folder even large complex one, and
 
 The app have a folder destructure and restructure features (also the program rename the same name files when destruct, than when restruct the program reuse the original file name), and in addition the program able filter files by extension and file name contents too.
 
+The app generated '(Destructure)' folders moveable so if you want, you can able to restruct the folder in a differenct computer included with installed Folder Structer Handler.
+
 # Informations
 
 The app is installable where the user want, the basic structure of the program is this:
