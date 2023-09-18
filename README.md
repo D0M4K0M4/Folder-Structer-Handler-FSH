@@ -39,3 +39,16 @@ Than you able to restruct your files to the original structured folder:
 
  ![My Image](Instruction_images/10.png)
 
+-----------------------------------------------------------------------
+
+# Filtering:
+
+You can filter files by name and extension, and with that you have an option to choose what you want to see in your destructed folder as well:
+
+To set a new filter, click just to the 'Folder Structer Handler - Filtering' shortcut than you'll see this:
+
+ ![My Image](Instruction_images/17.png)
+
+Actually i feel it already...
+
+And you can set this filters by click to 'SAVE' button each of this, than if you click the 'SAVE' button again you'll will set the filteration to 'none'. So that how you can set some filtering to files.
