@@ -376,8 +376,8 @@ namespace Folder_Structer_Handler__FSH_
                     if (env_sub_name.Contains("(Destructured)"))
                     {
                         string env_sub_root = env_sub_name.Remove(env_sub_name.LastIndexOf('_'));
-                        int env_sub_count = env_sub_root.Length - 1;
-                        string env_sub_sign = env_sub_root.Substring(env_sub_count);
+                        int env_sub_count = env_sub_root.Length + 1;
+                        string env_sub_sign = env_sub_name.Substring(env_sub_count);
 
                         if (env_sub_sign.All(char.IsDigit))
                         {
@@ -749,8 +749,8 @@ namespace Folder_Structer_Handler__FSH_
                 if (restruct_sub_name.Contains("Restructured"))
                 {
                     string restruct_sub_root = restruct_sub_name.Remove(restruct_sub_name.LastIndexOf('_'));
-                    int restruct_sub_count = restruct_sub_root.Length - 1;
-                    string restruct_sub_sign = restruct_sub_root.Substring(restruct_sub_count);
+                    int restruct_sub_count = restruct_sub_root.Length + 1;
+                    string restruct_sub_sign = restruct_sub_name.Substring(restruct_sub_count);
 
                     if (restruct_sub_sign.All(char.IsDigit))
                     {
