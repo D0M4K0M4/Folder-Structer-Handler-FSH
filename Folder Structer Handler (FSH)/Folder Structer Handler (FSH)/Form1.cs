@@ -447,12 +447,13 @@ namespace Folder_Structer_Handler__FSH_
                 string inner_pth = subfile_folder.Replace(env_folder, "");
 
                 string file_name = Path.GetFileName(subfile);
-                string raw_name = Path.GetFileNameWithoutExtension(subfile);
+                string raw_name = Path.GetFileNameWithoutExtension(subfile).ToLower();
                 string file_ext = Path.GetExtension(subfile);
-                string file_path = Path.Combine(destruct_pth, file_name);
+                string file_raw = raw_name + file_ext;
+                string file_path = Path.Combine(destruct_pth, file_raw);
 
 
-                if (prevaliddata.Contains(file_path))
+                if (prevaliddata.Contains(file_raw))
                 {
                     string dynamic_file_name = raw_name + "_(" + dynamic_signer.ToString() + ")" + file_ext;
                     string dynamic_file_path = Path.Combine(destruct_pth, dynamic_file_name);
@@ -569,7 +570,7 @@ namespace Folder_Structer_Handler__FSH_
 
                         using (StreamWriter log_innit = new StreamWriter(log_struct_pth, true))
                         {
-                            log_innit.WriteLine($"{inner_pth};{file_name};{file_name}");
+                            log_innit.WriteLine($"{inner_pth};{file_name};{file_raw}");
                         }
                         Proc_count++;
                         get_hitted_out = true;
@@ -593,7 +594,7 @@ namespace Folder_Structer_Handler__FSH_
 
                                 using (StreamWriter log_innit = new StreamWriter(log_struct_pth, true))
                                 {
-                                    log_innit.WriteLine($"{inner_pth};{file_name};{file_name}");
+                                    log_innit.WriteLine($"{inner_pth};{file_name};{file_raw}");
                                 }
                                 Proc_count++;
                                 get_hitted_out = true;
@@ -608,7 +609,7 @@ namespace Folder_Structer_Handler__FSH_
 
                             using (StreamWriter log_innit = new StreamWriter(log_struct_pth, true))
                             {
-                                log_innit.WriteLine($"{inner_pth};{file_name};{file_name}");
+                                log_innit.WriteLine($"{inner_pth};{file_name};{file_raw}");
                             }
                             Proc_count++;
                             get_hitted_out = true;
@@ -630,7 +631,7 @@ namespace Folder_Structer_Handler__FSH_
 
                             using (StreamWriter log_innit = new StreamWriter(log_struct_pth, true))
                             {
-                                log_innit.WriteLine($"{inner_pth};{file_name};{file_name}");
+                                log_innit.WriteLine($"{inner_pth};{file_name};{file_raw}");
                             }
                             Proc_count++;
                             get_hitted_out = true;
@@ -671,7 +672,7 @@ namespace Folder_Structer_Handler__FSH_
                 }
                 if (get_hitted_out)
                 {
-                    prevaliddata.Add(file_path);
+                    prevaliddata.Add(file_raw);
                 }
             }
             proctime.Stop();
@@ -746,7 +747,7 @@ namespace Folder_Structer_Handler__FSH_
             foreach (string restruct_sub in restruct_subs)
             {
                 string restruct_sub_name = Path.GetFileName(restruct_sub);
-                if (restruct_sub_name.Contains("Restructured"))
+                if (restruct_sub_name.Contains("Restructured_"))
                 {
                     string restruct_sub_root = restruct_sub_name.Remove(restruct_sub_name.LastIndexOf('_'));
                     int restruct_sub_count = restruct_sub_root.Length + 1;
