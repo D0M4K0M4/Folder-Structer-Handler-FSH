@@ -8,7 +8,7 @@ That small tool helps people to destructure a folder even large complex one, and
 
 # Features:
 
-New Abort future added to Folder Structer Handler:
+New Abort feature added to Folder Structer Handler:
 
  ![My Image](Instruction_images/26.png)
 
