@@ -21,6 +21,7 @@ namespace Folder_Structer_Handler__FSH_
         public Restruct _restruct;
         public Destruct _destruct;
         public bool progress_ena = false;
+        public bool progress_abort = false; 
         public string[] file_type = null;
         public string[] file_containing = null;
         private string dataPth = Path.Combine(Application.StartupPath, "settings.json");
@@ -288,6 +289,11 @@ namespace Folder_Structer_Handler__FSH_
                 Environment.Exit(0);
             }
         }
+
+        private void abort_bt_Click(object sender, EventArgs e)
+        {
+            progress_abort = true;
+        }
     }
 
     public class Destruct
@@ -438,6 +444,13 @@ namespace Folder_Structer_Handler__FSH_
             proctime.Start();
             foreach (string subfile in FolderFile)
             {
+                bool is_aborted = Set_entry.progress_abort;
+
+                if (is_aborted)
+                {
+                    break;
+                }
+
                 dynamic_signer++;
                 bool get_hitted_pre = false;
                 bool get_hitted_out = false;
@@ -448,7 +461,7 @@ namespace Folder_Structer_Handler__FSH_
 
                 string file_name = Path.GetFileName(subfile);
                 string raw_name = Path.GetFileNameWithoutExtension(subfile).ToLower();
-                string file_ext = Path.GetExtension(subfile);
+                string file_ext = Path.GetExtension(subfile).ToLower();
                 string file_raw = raw_name + file_ext;
                 string file_path = Path.Combine(destruct_pth, file_raw);
 
@@ -780,6 +793,13 @@ namespace Folder_Structer_Handler__FSH_
         proctime.Start();
         foreach (string file in mov_files)
         {
+            bool is_aborted = Set_entry.progress_abort;
+
+            if (is_aborted)
+            {
+                break;
+            }
+
             string file_name = Path.GetFileName(file);
 
             using (StreamReader read_lines = new StreamReader(entry_folder))
@@ -832,6 +852,9 @@ namespace Folder_Structer_Handler__FSH_
         procelapse = proctime.Elapsed;
         sectime = procelapse.ToString(@"s\.fffffff") + "s";
         Set_entry.Finish_l = sectime;
+
+        //Send update value
+        Set_entry.Updt_Prog_percent(100);
 
         double allsize_formated = Math.Round(allsize, 2);
         string output_size = $"{allsize_formated} MB data restructured";

@@ -38,6 +38,7 @@
             this.line_p = new System.Windows.Forms.PictureBox();
             this.finish_l = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.abort_bt = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.hideout_p)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.line_p)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -67,10 +68,10 @@
             // cre_by
             // 
             this.cre_by.AutoSize = true;
-            this.cre_by.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold);
+            this.cre_by.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cre_by.Location = new System.Drawing.Point(38, 185);
             this.cre_by.Name = "cre_by";
-            this.cre_by.Size = new System.Drawing.Size(461, 14);
+            this.cre_by.Size = new System.Drawing.Size(418, 14);
             this.cre_by.TabIndex = 2;
             this.cre_by.Text = "Folder Structer Handler v0.0.1 - Copyright © 2023 by D0M4K0M4. All Rights Reserve" +
     "d";
@@ -136,11 +137,23 @@
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
             // 
+            // abort_bt
+            // 
+            this.abort_bt.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold);
+            this.abort_bt.Location = new System.Drawing.Point(474, 175);
+            this.abort_bt.Name = "abort_bt";
+            this.abort_bt.Size = new System.Drawing.Size(86, 26);
+            this.abort_bt.TabIndex = 9;
+            this.abort_bt.Text = "Abort";
+            this.abort_bt.UseVisualStyleBackColor = true;
+            this.abort_bt.Click += new System.EventHandler(this.abort_bt_Click);
+            // 
             // fsh_main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(671, 213);
+            this.Controls.Add(this.abort_bt);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.finish_l);
             this.Controls.Add(this.line_p);
@@ -172,6 +185,7 @@
         private System.Windows.Forms.PictureBox line_p;
         private System.Windows.Forms.Label finish_l;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button abort_bt;
     }
 }
 
