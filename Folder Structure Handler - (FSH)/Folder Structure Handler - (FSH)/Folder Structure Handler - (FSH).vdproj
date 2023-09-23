@@ -33,7 +33,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_2D7E8BE14CB2405DAC4FA485A89FD5EE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_394A5F05C0E34D3E867724423E360263"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4B73FB51BEE44F5F8F14C6E1C9B9C6FE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -46,7 +58,7 @@
         "Entry"
         {
         "MsmKey" = "8:_66092B9685F20F8CF2508AE167B1D851"
-        "OwnerKey" = "8:_CA0DDD25CDD04B8C8C63A50484A6E78B"
+        "OwnerKey" = "8:_8E362274B5EB4C4B9D2E36EDF5AE91AA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -63,7 +75,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8E9B3CFBABA64B66847232DA938195DE"
+        "MsmKey" = "8:_8E362274B5EB4C4B9D2E36EDF5AE91AA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -99,19 +111,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_B7245B4B0C74410EB3368BC2088EB3F3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_C3DD2DB936574CAC9DBBCBECB06C63EB"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CA0DDD25CDD04B8C8C63A50484A6E78B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -136,7 +136,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CA0DDD25CDD04B8C8C63A50484A6E78B"
+        "OwnerKey" = "8:_8E362274B5EB4C4B9D2E36EDF5AE91AA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -300,12 +300,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2D7E8BE14CB2405DAC4FA485A89FD5EE"
+            {
+            "SourcePath" = "8:..\\..\\Folder Structer Handler (FSH)\\Folder Structer Handler (FSH)\\bin\\Release\\Folder Structer Handler (FSH).pdb"
+            "TargetName" = "8:Folder Structer Handler (FSH).pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_410AA0320443407D8642AD83507501D8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_394A5F05C0E34D3E867724423E360263"
             {
             "SourcePath" = "8:..\\..\\FSH_filter\\FSH_filter\\bin\\Release\\assets\\cursor_scroll.ico"
             "TargetName" = "8:cursor_scroll.ico"
             "Tag" = "8:"
             "Folder" = "8:_618847F63A91428B94DD100A51CE6761"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4B73FB51BEE44F5F8F14C6E1C9B9C6FE"
+            {
+            "SourcePath" = "8:..\\..\\Folder Structer Handler (FSH)\\Folder Structer Handler (FSH)\\bin\\Release\\Folder Structer Handler (FSH).exe.config"
+            "TargetName" = "8:Folder Structer Handler (FSH).exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_410AA0320443407D8642AD83507501D8"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -391,10 +431,21 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8E9B3CFBABA64B66847232DA938195DE"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8E362274B5EB4C4B9D2E36EDF5AE91AA"
             {
-            "SourcePath" = "8:..\\..\\Folder Structer Handler (FSH)\\Folder Structer Handler (FSH)\\bin\\Release\\Folder Structer Handler (FSH).exe.config"
-            "TargetName" = "8:Folder Structer Handler (FSH).exe.config"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Folder Structer Handler (FSH), Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8E362274B5EB4C4B9D2E36EDF5AE91AA"
+                    {
+                    "Name" = "8:Folder Structer Handler (FSH).exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Folder Structer Handler (FSH)\\Folder Structer Handler (FSH)\\bin\\Release\\Folder Structer Handler (FSH).exe"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_410AA0320443407D8642AD83507501D8"
             "Condition" = "8:"
@@ -511,63 +562,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B7245B4B0C74410EB3368BC2088EB3F3"
-            {
-            "SourcePath" = "8:..\\..\\Folder Structer Handler (FSH)\\Folder Structer Handler (FSH)\\bin\\Release\\Folder Structer Handler (FSH).pdb"
-            "TargetName" = "8:Folder Structer Handler (FSH).pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_410AA0320443407D8642AD83507501D8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C3DD2DB936574CAC9DBBCBECB06C63EB"
             {
             "SourcePath" = "8:..\\..\\FSH_filter\\FSH_filter\\bin\\Release\\assets\\fsh.ico"
             "TargetName" = "8:fsh.ico"
             "Tag" = "8:"
             "Folder" = "8:_618847F63A91428B94DD100A51CE6761"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CA0DDD25CDD04B8C8C63A50484A6E78B"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Folder Structer Handler (FSH), Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_CA0DDD25CDD04B8C8C63A50484A6E78B"
-                    {
-                    "Name" = "8:Folder Structer Handler (FSH).exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\Folder Structer Handler (FSH)\\Folder Structer Handler (FSH)\\bin\\Release\\Folder Structer Handler (FSH).exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_410AA0320443407D8642AD83507501D8"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -701,7 +701,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Folder Structure Handler - (FSH)"
         "ProductCode" = "8:{E2D8E168-03D1-4B41-B5B6-CCBE2161C955}"
-        "PackageCode" = "8:{8B98C3F5-0C66-4121-AE26-9A697FA1BC0C}"
+        "PackageCode" = "8:{7816F48E-1D1B-4328-924B-921C3F388E5D}"
         "UpgradeCode" = "8:{75F354E2-42DC-409E-AABA-8C92451C31FC}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
