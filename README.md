@@ -9,6 +9,7 @@ That small tool helps people to destructure a folder even large complex one, and
 # Features:
 
 New abort future added to Folder Structer Handler:
+
  ![My Image](Instruction_images/26.png)
 
 The app have a folder destructure and restructure features (also the program rename the same name files when destruct, than when restruct the program reuse the original file name), and in addition the program able filter files by extension and file name contents too.
